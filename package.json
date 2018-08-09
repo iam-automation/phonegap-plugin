@@ -1,40 +1,40 @@
 {
-  "name": "cordova-plugin-tune",
-  "version": "7.0.0",
-  "description": "This Cordova plugin allows you to measure installs and events with the TUNE SDK.",
+  "author": "John Gu", 
+  "bugs": {
+    "url": "https://github.com/tuneinc/phonegap-plugin/issues"
+  }, 
   "cordova": {
-    "id": "cordova-plugin-tune",
+    "id": "cordova-plugin-tune", 
     "platforms": [
-      "android",
+      "android", 
       "ios"
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MobileAppTracking/phonegap-plugin.git"
-  },
-  "keywords": [
-    "cordova",
-    "mat",
-    "mobileapptracking",
-    "tracking",
-    "attribution",
-    "analytics",
-    "tune",
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios"
-  ],
+  }, 
+  "description": "This Cordova plugin allows you to measure installs and events with the TUNE SDK.", 
   "engines": [
     {
-      "name": "cordova",
+      "name": "cordova", 
       "version": ">=3.0.0"
     }
-  ],
-  "author": "John Gu",
-  "license": "Apache 2.0",
-  "bugs": {
-    "url": "https://github.com/MobileAppTracking/phonegap-plugin/issues"
-  },
-  "homepage": "https://github.com/MobileAppTracking/phonegap-plugin#readme"
+  ], 
+  "homepage": "https://github.com/tuneinc/phonegap-plugin#readme", 
+  "keywords": [
+    "cordova", 
+    "mat", 
+    "mobileapptracking", 
+    "tracking", 
+    "attribution", 
+    "analytics", 
+    "tune", 
+    "ecosystem:cordova", 
+    "cordova-android", 
+    "cordova-ios"
+  ], 
+  "license": "Apache 2.0", 
+  "name": "cordova-plugin-tune", 
+  "repository": {
+    "type": "git", 
+    "url": "git+https://github.com/tuneinc/phonegap-plugin.git"
+  }, 
+  "version": "7.0.1-20180809221140"
 }
